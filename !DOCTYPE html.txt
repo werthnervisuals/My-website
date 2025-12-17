@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+index.html
 <html>
 <head>
   <title>My Website</title>
@@ -8,3 +8,4 @@
   <p>Welcome!</p>
 </body>
 </html>
+
